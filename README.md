@@ -14,3 +14,11 @@ Finally, you can test the end point via: (http://localhost:8082/filteredimage?im
 ![Original image](https://dogtime.com/assets/uploads/2018/10/puppies-cover.jpg)
 ### after applying filter:
 ![The filtered image](https://github.com/absaGH/udacity-project-image-filter-starter-code/blob/dev/deployment_screenshots/filteredimage.jpeg?raw=true)
+
+## The deplopyed version
+
+The Elastic Beanstalk App URL for the project:
+
+(http://image-filter-api.us-east-1.elasticbeanstalk.com)
+
+(http://image-filter-api.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://dogtime.com/assets/uploads/2018/10/puppies-cover.jpg)
