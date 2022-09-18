@@ -4,13 +4,13 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 ## running the project
 First, on the terminal type:
-npm install
+** npm install **
 
 Then, run the project by typing:
-npm run dev
+** npm run dev **
 
 Finally, you can test the end point via: (http://localhost:8082/filteredimage?image_url=https://dogtime.com/assets/uploads/2018/10/puppies-cover.jpg)
-original image:
+### original image:
 ![Original image](https://dogtime.com/assets/uploads/2018/10/puppies-cover.jpg)
-after applying filter:
-![The filtered image]()
+### after applying filter:
+![The filtered image](https://github.com/absaGH/udacity-project-image-filter-starter-code/blob/dev/deployment_screenshots/filteredimage.jpeg?raw=true)
